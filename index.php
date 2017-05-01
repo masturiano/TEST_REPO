@@ -11,4 +11,8 @@ echo "<br/>";
 $my_son = "Mydzell Arann T. Asturiano";
 echo $my_son;
 echo "<br/>";
+
+$test_branch_one = "Test branch one";
+echo $test_branch_one;
+echo "<br/>";
 ?>
